@@ -21,6 +21,7 @@
   <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
+## Edit
 
 ## Bootstrap 5
 
@@ -29,6 +30,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 
 ## Table of contents
 
+- [Edit](#edit)
 - [Bootstrap 5](#bootstrap-5)
 - [Table of contents](#table-of-contents)
 - [Quick start](#quick-start)
